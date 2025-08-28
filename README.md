@@ -15,7 +15,7 @@ Mục tiêu của dự án là thực hành viết web với JavaScript và Mong
 - **Backend**: Node.js, Express.js  
 - **Cơ sở dữ liệu**: MongoDB (Atlas/Local)  
 ## 📸 Giao diện
-![demo](trangtingit.png)
+https://github.com/tankiet2006/trangtin/issues/1#issue-3364166651
 
 ## 🚀 Demo
 👉 [Xem demo tại đây](https://trangtin-qk5l.onrender.com/) 
